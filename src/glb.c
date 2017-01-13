@@ -1,11 +1,5 @@
 /**
- * THERE WILL BE NO REFACTORING OR PHILOSOFICAL CODING 
- * (NAME CONVENTION CHANGES ETC.) UNTIL THE GAME IS FINISHED.
- * SINGLE SOURCE FILE CHALLANGE! (except libs!)
- * STICK TO THE PLAN!
- * KEEP IT STIMPLE, SUPID!
- *
- * GLSL coding convention examples:
+ * GLSL coding convention:
  *         i_vpos --> Input Vertex POSision
  *         o_fcol --> Outupt Fragment COLor
 */
